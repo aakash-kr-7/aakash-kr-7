@@ -1,15 +1,6 @@
 <div align="center">
 
-```
- ░█████╗░░█████╗░██╗░░██╗░█████╗░░██████╗██╗░░██╗
- ██╔══██╗██╔══██╗██║░██╔╝██╔══██╗██╔════╝██║░░██║
- ███████║███████║█████═╝░███████║╚█████╗░███████║
- ██╔══██║██╔══██║██╔═██╗░██╔══██║░╚═══██╗██╔══██║
- ██║░░██║██║░░██║██║░╚██╗██║░░██║██████╔╝██║░░██║
- ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝╚═╝░░╚═╝
-```
-
-### `Backend Engineer · AI Systems · Distributed Architecture`
+### `Backend Engineer · Full Scale systems Architect · Distributed Architecture`
 
 *I don't build features. I build the infrastructure that makes features possible.*
 
