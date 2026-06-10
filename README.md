@@ -1,32 +1,147 @@
-<h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
-<h3 align="center">A backend systems engineer who builds data-intensive applications — vector retrieval, async infrastructure, and scalable backends. Currently pursuing B.Tech CSE..</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-kr-7&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-kr-7" /> </p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          I don't build features. I build systems.            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 🔭 I’m currently working on [SOL — a distributed messaging platform with a custom persistent memory and retrieval backend](https://github.com/aakash-kr-7/sol)
+# Aakash Kumar
 
-- 🌱 I’m currently learning **Advanced system design, vector databases, distributed architectures, and LLM engineering**
+**Backend Engineer · AI Systems · Distributed Architecture**
 
-- 👯 I’m looking to collaborate on **Backend systems, data pipelines, or any product that needs serious infrastructure under the hood**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-kumar-978671274)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=github&logoColor=white)](https://aakash-kr-7.github.io)
+[![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=flat-square&logoColor=white)](https://codolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/aakashkr7)
+[![CodeChef](https://img.shields.io/badge/CodeChef_3★-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/e23cseu0161)
+[![Views](https://komarev.com/ghpvc/?username=aakash-kr-7&label=profile+views&color=6366F1&style=flat-square)](https://github.com/aakash-kr-7)
 
-- 🤝 I’m looking for help with **Scaling vector retrieval pipelines and optimizing async concurrency patterns**
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aakash-kr-7](https://github.com/aakash-kr-7)
+---
 
-- 💬 Ask me about **FastAPI, ChromaDB, async Python, relational schema design, Flutter, and building full-stack systems from scratch**
+## What I Actually Do
 
-- 📫 How to reach me **aakashkumar94303@gmail.com**
+I build things that need serious infrastructure under the hood — systems where the interesting problems are in **memory architecture**, **async concurrency**, **vector retrieval**, and **behavioral simulation at scale**.
 
-- ⚡ Fun fact **Here is my portfolio website - aakash-kr-7.github.io**
+Not portfolio pieces. Not tutorials. Systems with real constraints: isolation guarantees, race-condition avoidance, zero-cost deployment, and behavior that holds up under load.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aakash-kumar-978671274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-kumar-978671274" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/e23cseu0161" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="e23cseu0161" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aakashkr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashkr7" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-kr-7&show_icons=true&locale=en&layout=compact" alt="aakash-kr-7" /></p>
+### SOL — Distributed AI Relationship Platform
+> `FastAPI` `Flutter` `ChromaDB` `SQLite` `Firebase` `FCM` `Railway`
+
+The most technically demanding thing I've built. SOL is a persistent-memory AI platform with **12 autonomous personas**, each capable of evolving relationships, recalling emotional context, and initiating conversations — across thousands of concurrent users.
+
+**The hard parts:**
+
+```
+Memory Layer       →  Pair-scoped ChromaDB namespaces. Zero cross-persona leakage.
+Retrieval Engine   →  5-factor deterministic ranking: vector similarity + emotional
+                      salience + memory strength + recency decay + unresolved context.
+Personality Model  →  132 runtime coefficients per persona. Controls impulsiveness,
+                      attachment speed, emotional volatility, texting cadence, and more.
+Concurrency Model  →  Semaphore-controlled async workers, pair-level locks,
+                      timeout-aware scheduling. No event-loop starvation.
+Storage Layer      →  19 relational tables, 28 indexed query paths.
+                      Telemetry separated from narrative retrieval.
+Infra Cost         →  $0. Entire stack on free-tier services. Fully live.
+```
+
+**Memory signals extracted per conversation:** 30+ structured types — episodic memories, emotional events, behavioral tendencies, unresolved topics, relational links.
+
+**Relationship model:** 6 behavioral metrics × 5 adaptive stages. Trust, rhythm, openness, comfort, familiarity — all continuously updated, all affecting response generation.
+
+---
+
+### AURORA — Speech Emotion Recognition System
+> `Python` `CNN` `BiLSTM` `MFCC` `TensorFlow`
+
+End-to-end SER pipeline trained on **10,000+ audio samples** across RAVDESS, CREMA-D, and TESS datasets.
+
+| Model | Accuracy |
+|-------|----------|
+| SVM | 73% |
+| BiLSTM | 82% |
+| **CNN** | **95%** ✓ |
+
+CNN dominates — as expected for extracting complex time-frequency patterns from 2D spectrograms. MFCC-based feature extraction pipeline with augmentation and dataset harmonization.
+
+---
+
+### AETHER — Full-Stack Wellness App
+> `Flutter` `Firebase` `Firestore` `System Design`
+
+Firestore backend with **8+ user-scoped collections** under a strict single-owner model. Custom security rules enforcing per-user data isolation. Time-series journal schemas built for future analytics pipelines.
+
+20+ async UI states managed across 10+ network-bound screens — explicit error/loading/partial-render handling on every screen. No optimistic fallbacks.
+
+**Top 100 University Projects — Bennett University, 2025.**
+
+---
+
+## Research
+
+### Paraphrase-Robust Fake News Detection
+> `NLP` `ML` `DL` `Sentence Embeddings` `Ensemble Models`
+
+Built a paraphrase-aware detection pipeline across **190,000+ claims** and **33,294 unique paraphrase sets** — specifically designed to expose robustness failures under LLM-style paraphrased inputs.
+
+**Best configuration (V5 — weighted lexical-semantic ensemble):**
+
+```
+Accuracy    →  0.7648
+Precision   →  0.8219
+Recall      →  0.7709
+F1 Score    →  0.7956
+Consistency →  0.9328    ← same prediction on original + paraphrase
+Agreement   →  0.9375
+```
+
+Compared TF-IDF, MiniLM, MPNet, Logistic Regression across 5 model configurations.
+
+---
+
+## Stack
+
+```python
+languages   = ["Python", "Dart", "SQL", "Java", "C++"]
+backend     = ["FastAPI", "REST APIs", "Async Python"]
+databases   = ["SQLite", "ChromaDB", "Firestore", "Firebase", "Relational Design"]
+mobile      = ["Flutter", "FCM", "Firebase Auth"]
+ml_ai       = ["NLP", "Sentence Embeddings", "TF-IDF", "CNN/BiLSTM", "MFCC", "scikit-learn"]
+systems     = ["Vector Retrieval", "Async Concurrency", "Clean Architecture", "Data Modeling"]
+tools       = ["Git", "Linux", "Android Studio", "VS Code"]
+```
+
+---
+
+## Background
+
+- 🎓 **B.Tech CSE — Bennett University** · CGPA 9.19 · SAT 1530
+- 🔐 **Certified Ethical Hacker (CEH)** — EC-Council · Feb 2026 – Mar 2027
+- 💻 **350+ problems solved** across LeetCode, CodeChef (3★ Div. 3)
+- 🏆 **Top 100 University Projects** — Bennett University (Aether, 2025)
+
+---
+
+## What I'm Focused On
+
+Currently building deeper into **LLM engineering**, **vector database internals**, and **distributed system design**. Specifically: scaling retrieval pipelines for long-horizon memory and optimizing async concurrency patterns in Python.
+
+Open to collaborating on backend infrastructure, data pipelines, or products that need a real architecture layer — not just scaffolding.
+
+---
+
+<div align="center">
+
+`aakashkumar94303@gmail.com`
+
+*"The backend is where the real decisions live."*
+
+</div>
