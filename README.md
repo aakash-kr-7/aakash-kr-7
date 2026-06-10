@@ -2,7 +2,7 @@
 
 ### `Backend Engineer · Full Scale systems Architect · Distributed Architecture`
 
-*I don't build features. I build the infrastructure that makes features possible.*
+*I like coding lol*
 
 <br/>
 
@@ -286,14 +286,11 @@ Benchmarked: TF-IDF · MiniLM · MPNet · Logistic Regression · 5 model configu
 [![Email](https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashkumar94303@gmail.com)
 [![Portfolio](https://img.shields.io/badge/See_my_work-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://aakash-kr-7.github.io)
 
-<br/>
-
-*"The backend is where the real decisions live."*
 
 <br/>
 
 ---
 
-<sub>Built with precision · Deployed with intention · $0 operational cost and counting</sub>
+<sub>Built with love · Try to have fun while i am at it · $0 operational cost babyyyy</sub>
 
 </div>
