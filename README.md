@@ -278,7 +278,7 @@ Benchmarked: TF-IDF · MiniLM · MPNet · Logistic Regression · 5 model configu
 
 ## 🤝 Connect
 
-**Open to collaborating on backend systems, data pipelines, or full scale.**
+**Open to collaborating on backend systems, data pipelines, or full scale projects.**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-kumar-978671274)
 [![Email](https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashkumar94303@gmail.com)
