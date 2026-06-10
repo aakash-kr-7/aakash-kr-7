@@ -8,8 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-kumar-978671274)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://aakash-kr-7.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aakashkr7)
-[![CodeChef](https://img.shields.io/badge/CodeChef_3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/e23cseu0161)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashkumar94303@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aakash-kr-7&label=Profile%20Views&color=6366f1&style=for-the-badge)
@@ -255,7 +253,7 @@ Benchmarked: TF-IDF · MiniLM · MPNet · Logistic Regression · 5 model configu
 ```
 🎓  B.Tech CSE — Bennett University         CGPA: 9.19 / 10   SAT: 1530 / 1600
 🔐  Certified Ethical Hacker (CEH)          EC-Council · Feb 2026 – Mar 2027
-💻  350+ Problems Solved                    LeetCode + CodeChef (3★ Division 3)
+💻  CodeChef                                3★ Division 3 - Best contest rank - 55
 🏆  Top 100 University Projects             Bennett University — Aether, 2025
 ```
 
