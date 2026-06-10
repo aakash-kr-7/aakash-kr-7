@@ -240,10 +240,6 @@ Benchmarked: TF-IDF · MiniLM · MPNet · Logistic Regression · 5 model configu
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aakash-kr-7&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&icon_color=6366f1" alt="GitHub Stats" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-kr-7&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 
 </div>
