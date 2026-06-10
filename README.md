@@ -219,7 +219,6 @@ Benchmarked: TF-IDF · MiniLM · MPNet · Logistic Regression · 5 model configu
 <p>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>&nbsp;&nbsp;
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>&nbsp;&nbsp;
-<a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="42" height="42"/></a>&nbsp;&nbsp;
 <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42"/></a>
 </p>
 
